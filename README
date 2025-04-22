@@ -1,0 +1,33 @@
+# 📚 Repositório de Estudos e Exercícios
+
+Este repositório reúne códigos simples, exercícios práticos e pequenos projetos desenvolvidos durante meus estudos em Ciência da Computação. O objetivo é praticar lógica de programação, estruturas básicas e aprimorar o raciocínio computacional com linguagem C.
+
+---
+
+## 🧠 Conteúdo
+
+- Cálculo de idade em dias
+- Conversor de temperatura
+- Cálculo de área de retângulo
+- Leitura de nome e idade
+- Cálculo de salário com acréscimos
+- Cálculo de desconto
+- Média de 5 números
+- Comissão sobre vendas
+- Preço final de carro com impostos
+
+---
+
+## 🛠️ Tecnologias
+
+- Linguagem C (100%)
+
+---
+
+## 🚀 Como usar
+
+Você pode compilar e executar os arquivos `.c` usando qualquer compilador C. Exemplo com `gcc`:
+
+```bash
+gcc nome-do-arquivo.c -o programa
+./programa
